@@ -1,0 +1,23 @@
+* {
+    font-size: 14px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+/* ------------------------------------------------------------------------------------------------ */
+textarea {
+    resize: none;
+}
+input, textarea {
+    border: 1px solid rgb(109, 109, 109);
+    border-radius: 2px;
+}
+input{
+    height: 40px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+input:hover {
+    color: red;
+}
